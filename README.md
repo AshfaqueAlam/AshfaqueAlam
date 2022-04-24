@@ -52,18 +52,14 @@
 ---
 
 
-<!-- <div align="left">
-  <a href="https://github.com/AshfaqueAlam">-->
+
 <details>
-  <summary> ⚡ GitHub Stats </summary>
-  <table style="text-align: center; vertical-align: middle;">
-    <tr><td>
-  <img height="190em" align="left" alt="Ashfaque's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AshfaqueAlam&show_icons=true&hide_border=true" />
-      </td><td>
-  <img height="280em" align="center" alt="Ashfaque's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshfaqueAlam" />
-    </tr></td>
+  <summary> ⚡ GitHub Stats </summary> <br>
+  <div align="center">
+    <img height="190em" align="center" alt="Ashfaque's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AshfaqueAlam&title_color=2185FF&text_color=C9D1D9&icon_color=6CA6FE&show_icons=true&hide_border=1&bg_color=0D1117&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="350em" align="center" alt="Ashfaque's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshfaqueAlam&title_color=2185FF&text_color=C9D1D9&icon_color=DD6387&show_icons=true&hide_border=1&bg_color=0D1117&langs_count=10&theme=dracula" />
+  </div>
 </details>
-<!--</div>-->
 
 
 
