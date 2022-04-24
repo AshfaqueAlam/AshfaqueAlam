@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Everything** 😛
 - 👯 I’m looking to collaborate with other **developers**
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 4 languages ( English, Urdu, Hindi, Bengali)
+- ⚡ Fun fact: I speak 4 languages (English, Urdu, Hindi, Bengali)
 
 
 
