@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/AshfaqueAlam/AshfaqueAlam/blob/main/coding_gif/code6.gif?raw=true" width="413" height="317" />
+[<img align="right" alt="GIF" src="https://github.com/AshfaqueAlam/AshfaqueAlam/blob/main/coding_gif/code6.gif?raw=true" width="413" height="317" />][github]
 
 
 
