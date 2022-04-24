@@ -6,7 +6,7 @@
 
 
 
-## I'm a Developer and a Gamer !!
+<h3 align="center">I'm a Developer and a Gamer !!</h3>
 
 
 
@@ -16,9 +16,8 @@
 - ⚡ Fun fact: I speak 5 languages ( English, Urdu, Arabic, Hindi, Bengali )
 
 
-
+<br>
 ### Languages and Tools:
-
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
@@ -48,9 +47,7 @@
 [<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />][github]
 [<img align="left" alt="SQLite" width="26px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />][github]
 
-
-<br />
-<br />
+<br /><br /><br />
 
 ---
 
