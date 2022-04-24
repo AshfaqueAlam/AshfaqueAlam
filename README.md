@@ -16,7 +16,6 @@
 - ⚡ Fun fact: I speak 5 languages ( English, Urdu, Arabic, Hindi, Bengali )
 
 
-<br>
 
 <h3 align="center">Languages and Tools</h3>
 
