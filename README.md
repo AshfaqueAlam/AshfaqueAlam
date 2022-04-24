@@ -52,16 +52,18 @@
 ---
 
 
-
+<!-- <div align="left">
+  <a href="https://github.com/AshfaqueAlam">-->
 <details>
-  <summary> 🔎 GitHub Stats </summary>
-  <img align="left" alt="Ashfaque's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AshfaqueAlam&show_icons=true&hide_border=true" />
+  <summary> ⚡ GitHub Stats </summary>
+  <table style="text-align: center; vertical-align: middle;">
+    <tr><td>
+  <img height="190em" align="left" alt="Ashfaque's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AshfaqueAlam&show_icons=true&hide_border=true" />
+      </td><td>
+  <img height="280em" align="center" alt="Ashfaque's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshfaqueAlam" />
+    </tr></td>
 </details>
-
-<details>
-  <summary>📊 Most Used Languages</summary>
-  <img align="left" alt="Ashfaque's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshfaqueAlam" />
-</details>
+<!--</div>-->
 
 
 
